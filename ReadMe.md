@@ -1,6 +1,5 @@
-# **A Java Vending Machine Project** 
-## CST-135 Purple Group 
-November 5 - December 23rd 2018
+# **A Java Vending Machine Project** #
+## CST-135 Purple Group <br/> November 5 - December 23rd 2018
 
 ---
 
@@ -11,7 +10,7 @@ This is a group project for CST-135 at Grand Canyon University. The purpose of t
     * Generate a UML modeling a product for sale in a vending machine.
     * Generate a UML modeling a dispenser for products in a vending machine.
 
----
+## **Files**
 
 ReadMe.md \- File explaining the project\
 ProductClass.xml \- draw.io file for Product UML class diagram\
@@ -19,10 +18,9 @@ ProductClass.png \- Product UML class .png file for viewing\
 DispenserClass.xml \- draw.io file for Dispenser UML class\
 DispenserClass.png \- Dispenser UML class .png file for viewing
 
----
-### Contributors
+## **Contributors**
 Name | Email
 -----|-------
-Shawn Fradet | Sfradet@my.gcu.edu
-Mark Gaffney | MGaffney5@my.gcu.edu
+Shawn Fradet | <Sfradet@my.gcu.edu>
+Mark Gaffney | <MGaffney5@my.gcu.edu>
 
