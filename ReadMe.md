@@ -15,7 +15,9 @@ This is a group project for CST-135 at Grand Canyon University. The purpose of t
 
 ReadMe.md \- File explaining the project\
 ProductClass.xml \- draw.io file for Product UML class diagram\
-ProductClass.png \- Product UML class .png file for viewing
+ProductClass.png \- Product UML class .png file for viewing\
+DispenserClass.xml \- draw.io file for Dispenser UML class\
+DispenserClass.png \- Dispenser UML class .png file for viewing
 
 ---
 ### Contributors
