@@ -1,6 +1,6 @@
-# **CST-135 PURPLE GROUP** #
-## Java Vending Machine Project ##
-### November 5 - December 23rd 2018 ###
+# **A Java Vending Machine Project** 
+## CST-135 Purple Group 
+November 5 - December 23rd 2018
 
 ---
 
