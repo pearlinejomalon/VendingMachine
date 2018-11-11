@@ -17,7 +17,8 @@ DispenserClass.xml \- draw.io file for Dispenser UML class\
 ProductClass.png \- Product UML class .png file for viewing\
 ProductClass.xml \- draw.io file for Product UML class diagram\
 ReadMe.md \- File explaining the project\
-StoryboardDiagram.xml \- Diagram with proposed layout of classes
+StoryboardDiagram.png \- Proposed layout of classes .png file for viewing\
+StoryboardDiagram.xml \- Draw.io file of diagram with proposed layout of classes
 
 ## **Contributors**
 Name | Email
