@@ -11,11 +11,13 @@ This is a group project for CST-135 at Grand Canyon University. The purpose of t
     * Generate a UML modeling a dispenser for products in a vending machine.
 
 ## **Files**
-ReadMe.md \- File explaining the project\
-ProductClass.xml \- draw.io file for Product UML class diagram\
-ProductClass.png \- Product UML class .png file for viewing\
+
+DispenserClass.png \- Dispenser UML class .png file for viewing\
 DispenserClass.xml \- draw.io file for Dispenser UML class\
-DispenserClass.png \- Dispenser UML class .png file for viewing
+ProductClass.png \- Product UML class .png file for viewing\
+ProductClass.xml \- draw.io file for Product UML class diagram\
+ReadMe.md \- File explaining the project\
+StoryboardDiagram.xml \- Diagram with proposed layout of classes
 
 ## **Contributors**
 Name | Email
