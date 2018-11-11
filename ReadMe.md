@@ -2,7 +2,7 @@
 ## CST-135 Purple Group <br/> November 5 - December 23rd 2018
 
 ---
-
+## **About**
 This is a group project for CST-135 at Grand Canyon University. The purpose of this project is to generate Java code that could be used to control a vending machine. Generation of the project is spread across 8 milestones covering 7 weeks.
 
 * Milestone 1
@@ -11,7 +11,6 @@ This is a group project for CST-135 at Grand Canyon University. The purpose of t
     * Generate a UML modeling a dispenser for products in a vending machine.
 
 ## **Files**
-
 ReadMe.md \- File explaining the project\
 ProductClass.xml \- draw.io file for Product UML class diagram\
 ProductClass.png \- Product UML class .png file for viewing\
